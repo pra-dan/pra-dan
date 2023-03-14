@@ -1,4 +1,4 @@
-<img src="images/header_en.svg"></img>
+<img src="images/banner_solterk.gifg"></img>
 
 ### Hi there 👋
 
