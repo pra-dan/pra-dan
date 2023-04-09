@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm <a>Prashant</a> 🫡</h1>
 
 <p align="center">
-  <a href='https://prashantdandriyal.medium.com/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-medium-256.png"/></a>
-  <a href='https://www.linkedin.com/in/rahul-jha98/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-unsplash-256.png"/></a>
-  <a href='https://www.linkedin.com/in/rahul-jha98/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-kaggle-256.png"/></a>
+  <a href='https://www.linkedin.com/in/prashant-dandriyal/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-linkedin-256.png"/></a>
+  <a href='https://prashantdandriyal.medium.com/'><img alt="medium" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-medium-256.png"/></a>
+  <a href='https://unsplash.com/@pedrostu'><img alt="unsplash" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-unsplash-256.png"/></a>
+  <a href='https://www.kaggle.com/prashantdandriyal'><img alt="kaggle" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-kaggle-256.png"/></a>
+  <! FAVICONS SOURCED FROM: https://icons8.com/icon/uzhJQ5CyNoaH/linkedin!>
 </p>
 
 
@@ -15,8 +17,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/final_fig_github.gif" width="320px"/>
 
-- 🔭 I’m currently working on an AMR meant for cleaning large-scale solar fields. Recently tested our AMR on one of India's largest solar fields near Bhadla.
-- 👯 I’m looking to collaborate on [TAMPPA: a time & memory profile parser](https://github.com/pra-dan/TAMPPA).
+- 🔭 I’m currently working on an AMR meant for cleaning large-scale solar fields. Recently tested our AMR on one of world's largest solar fields near Bhadla.
+- 👯 Looking to collaborate on [TAMPPA: a time & memory profile parser](https://github.com/pra-dan/TAMPPA).
 - 💬 Ask me about Mobile Robotics, Crytocurrencies and NFTs.
 - 🌱 Learning to create [Dune dashboards](https://dune.com/pedrostu)
 - 📫 How to reach me: [my Email](prashantdandriyal7@gmail.com)
