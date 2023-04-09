@@ -1,22 +1,17 @@
-<h1 align="center">Hi, I'm <a>Prashant</a> 👋</h1>
+<h1 align="center">Hi, I'm <a>Prashant</a> 🫡</h1>
 
 <p align="center">
-  <a href='https://www.linkedin.com/in/rahul-jha98/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-medium-256.png"/></a>
+  <a href='https://prashantdandriyal.medium.com/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-medium-256.png"/></a>
   <a href='https://www.linkedin.com/in/rahul-jha98/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-unsplash-256.png"/></a>
-  <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" height="45" width="48" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg"/></a>
+  <a href='https://www.linkedin.com/in/rahul-jha98/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-kaggle-256.png"/></a>
 </p>
-
-
-
-
-<br />
 
 
 <br />
 
 </a>
 
-### More on me
+### 🤠 More About Me:
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/final_fig_github.gif" width="320px"/>
 
