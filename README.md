@@ -19,8 +19,7 @@
 
 - ⚡ Currently working on improving watching experience for soccer fans @QuickFlip. Exploring Speech AI as homework.
 - 🔭 I’m was last working on an AMR meant for cleaning large-scale solar fields. Recently tested our AMR on one of world's largest solar fields near Bhadla.
-- 👯 Looking to collaborate on [TAMPPA: a time & memory profile parser](https://github.com/pra-dan/TAMPPA).
-- 💬 Ask me about Mobile Robotics, Crytocurrencies and NFTs.
+- 💬 Ask me about Computer-Vision, GenAI, and Crytocurrencies.
 - 📫 How to reach me: [my Email](prashantdandriyal7@gmail.com)
 - ⚡ Fun fact: I can speak 3 languages. 
 - 💪 Proudly, [our IICDC team](https://www.youtube.com/watch?v=N5MOh3aWv0o&t=114s) ranked among the top 3.2% among 10k+ teams across India. 
@@ -42,3 +41,4 @@
 </a>
 
 <br>
+<!-- - 👯 Looking to collaborate on [TAMPPA: a time & memory profile parser](https://github.com/pra-dan/TAMPPA).-!>
