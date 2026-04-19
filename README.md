@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a>Prashant</a> 🫡</h1>
 
 <p align="center">
-  <a href='https://www.linkedin.com/in/prashant-dandriyal/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-linkedin-256.png"/></a>
+  <a href='https://www.linkedin.com/in/prashant-dandriyal/'><img alt="linkedin" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-linkedin-256.png"/></a> 
   <a href='https://prashantdandriyal.medium.com/'><img alt="medium" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-medium-256.png"/></a>
   <a href='https://unsplash.com/@pedrostu'><img alt="unsplash" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-unsplash-256.png"/></a>
   <a href='https://www.kaggle.com/prashantdandriyal'><img alt="kaggle" height="45" width="48"src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/icons8-kaggle-256.png"/></a>
@@ -17,7 +17,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pra-dan/pra-dan/main/images/final_fig_github.gif" width="320px"/>
 
-- ⚡ Currently working on improving watching experience for soccer fans @QuickFlip. Exploring Speech AI as homework.
+- ⚡ Currently working on improving watching experience for soccer fans @QuickFlip. Exploring Agents and Speech AI as homework.
 - 🔭 I’m was last working on an AMR meant for cleaning large-scale solar fields. Recently tested our AMR on one of world's largest solar fields near Bhadla.
 - 💬 Ask me about Computer-Vision, GenAI, and Crytocurrencies.
 - 📫 How to reach me: [my Email](prashantdandriyal7@gmail.com)
